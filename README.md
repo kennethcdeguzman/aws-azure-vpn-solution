@@ -112,3 +112,7 @@
 7. **Internet gateway**
    * **Name**: aws-igw
    * **Attached VPC**: vpc-01
+
+## **II. Cost estimates:**
+* [AWS site-to-site vpn pricing](https://calculator.aws/#/estimate?id=6bdca12f0f25d4c4f9fe1a03c9d1f2a39d1430b6)
+* [Azure site-to-site vpn pricing](https://azure.com/e/0adbc445cba1454cb6db7b0ec7c98b19)
