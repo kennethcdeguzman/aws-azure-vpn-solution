@@ -1,8 +1,11 @@
 # AWS to Azure site-to-site VPN solution
 
+---
+
 ## I. Architecture:
 ![VPN Solution Flowchart.png](resources%2FVPN%20Solution%20Flowchart.png)
 
+---
 
 ## **II. Components:**
 
