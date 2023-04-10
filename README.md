@@ -75,6 +75,7 @@
 ### **B. AWS**
 1. **Virtual private network (VPC)**
    * **Name**: aws-vpc-01
+   * **Region**: us-west-2 (Oregon) 
    * **IPv4 CIDR Block**: 10.10.0.0/16
    * **IPv6 CIDR Block**: No
 2. **Subnet**
